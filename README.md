@@ -20,6 +20,13 @@
     <br />
     引用自 <a href="./clutter/Details.md"><strong>《杂物 · 月月岛科技详细说明》</strong></a>
   </p>
+  <p>
+    <strong>品牌素材规则</strong>
+    <br />
+    <a href="./LICENSE-ASSETS.md"><strong>查看品牌素材使用规则</strong></a>
+    ·
+    <a href="./TRADEMARK.md"><strong>查看品牌与标识说明</strong></a>
+  </p>
   <blockquote>
     <p>
       月月岛科技是一个以开源技术、个人兴趣和创作爱好为核心的内容集合。
@@ -32,6 +39,21 @@
     <a href="#人物信息"><strong>查看人物信息</strong></a>
   </p>
 </div>
+
+<p align="center">
+  <a href="https://space.bilibili.com/3493277871377082">
+    <img src="https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-MonthZifang-0080FF?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
+  </a>
+  <a href="https://github.com/MonthZifang">
+    <img src="https://img.shields.io/badge/GitHub-MonthZifang-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:monthzifang@outlook.com">
+    <img src="https://img.shields.io/badge/Email-monthzifang%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
+  </a>
+  <a href="https://qm.qq.com/q/3p19hP7qfu">
+    <img src="https://img.shields.io/badge/QQ%E7%BE%A4-%E5%8A%A0%E5%85%A5%E7%A4%BE%E7%BE%A4-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ Group" />
+  </a>
+</p>
 
 <br />
 
@@ -64,4 +86,11 @@
 
 <div align="left">
   <sub>开源是连接，兴趣是起点，创作让这座岛慢慢发光，月月岛科技成立于2026年4月29日。</sub>
+</div>
+
+<div align="left">
+  <sub>
+    品牌素材说明：本仓库中的 Logo、吉祥物、名称及相关视觉素材默认保留全部权利。
+    允许非商业展示与转载，但必须保留原始链接；任何改图、二创或商业使用，均须事先取得作者书面同意。
+  </sub>
 </div>
