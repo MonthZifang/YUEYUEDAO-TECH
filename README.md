@@ -21,9 +21,9 @@
     引用自 <a href="./clutter/Details.md"><strong>《杂物 · 月月岛科技详细说明》</strong></a>
   </p>
   <p>
-    <strong>品牌素材规则</strong>
+    <strong>素材与品牌规则</strong>
     <br />
-    <a href="./LICENSE-ASSETS.md"><strong>查看品牌素材使用规则</strong></a>
+    <a href="./LICENSE-ASSETS.md"><strong>查看艺术素材许可（CC BY-NC-SA 4.0）</strong></a>
     ·
     <a href="./TRADEMARK.md"><strong>查看品牌与标识说明</strong></a>
   </p>
@@ -90,7 +90,7 @@
 
 <div align="left">
   <sub>
-    品牌素材说明：本仓库中的 Logo、吉祥物、名称及相关视觉素材默认保留全部权利。
-    允许非商业展示与转载，但必须保留原始链接；任何改图、二创或商业使用，均须事先取得作者书面同意。
+    素材说明：吉祥物与非 Logo 艺术素材按 CC BY-NC-SA 4.0 共享，可非商业修改与转载，但应署名、保留原始链接并标明改动；
+    Logo、项目名称与品牌主标识默认保留全部权利，不在 CC 授权范围内。
   </sub>
 </div>
