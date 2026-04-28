@@ -1,29 +1,37 @@
-<table>
-  <tr>
-    <td width="220" valign="top" align="left">
-      <img src="./png/logo.png" alt="月月岛科技 Logo" width="180" />
-    </td>
-    <td valign="top" align="left">
-      <h1>月月岛科技</h1>
-      <p><strong>开源技术社区 / 个人兴趣 / 创作爱好</strong></p>
-      <p>
-        它不是一间现实中的科技公司，
-        <br />
-        而是一座由热爱、开源与想象力共同搭起的小岛。
-      </p>
-      <p>
-        <strong>文档信息</strong>
-        <br />
-        这里会持续记录项目设定、创作灵感、内容整理与岛屿世界观。
-      </p>
-      <p>
-        <a href="#关于这座岛"><strong>阅读岛屿介绍</strong></a>
-        ·
-        <a href="#人物信息"><strong>查看人物信息</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./png/logo.png" alt="月月岛科技 Logo" width="180" />
+</div>
+
+<div align="left">
+  <h1>月月岛科技</h1>
+  <p><strong>开源技术社区 / 个人兴趣 / 创作爱好</strong></p>
+  <p>
+    它不是一间现实中的科技公司，
+    <br />
+    而是一座由热爱、开源与想象力共同搭起的小岛。
+  </p>
+  <p>
+    <strong>文档信息</strong>
+    <br />
+    这里会持续记录项目设定、创作灵感、内容整理与岛屿世界观。
+  </p>
+  <p>
+    <strong>详细信息引用</strong>
+    <br />
+    引用自 <a href="./clutter/Details.md"><strong>《杂物 · 月月岛科技详细说明》</strong></a>
+  </p>
+  <blockquote>
+    <p>
+      月月岛科技是一个以开源技术、个人兴趣和创作爱好为核心的内容集合。
+      它更接近一种个人化的技术社区设定、作品归档方式与项目世界观，而不是现实中的实体化科技公司。
+    </p>
+  </blockquote>
+  <p>
+    <a href="#关于这座岛"><strong>阅读岛屿介绍</strong></a>
+    ·
+    <a href="#人物信息"><strong>查看人物信息</strong></a>
+  </p>
+</div>
 
 <br />
 
